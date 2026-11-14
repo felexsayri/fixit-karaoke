@@ -37,3 +37,14 @@ FIX-IT KARAOKE/
 ```
 
 The app finds the folder by itself and numbers the songs.
+
+### Copy songs from your PC to a TV box or phone
+
+If your FIX-IT PC already has a song pack, a TV box or phone on the same Wi-Fi
+can copy it:
+
+1. On the PC: **Settings → Share songs with a TV or phone**. A 6-digit code appears.
+2. On the TV box or phone: choose **Get songs from my PC** during setup (or on
+   the "No songs yet" message) and enter the code.
+
+The songs keep the same numbers as on the PC.
