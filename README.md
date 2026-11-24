@@ -44,5 +44,5 @@ The app finds the folder by itself and numbers the songs.
 
 ### Background videos
 
-The Android apps come without background videos, to keep them small. Download them
-in the app: **Settings → Song library → Get songs & videos → From the internet**.
+The apps come with background videos and photos for MIDI songs. To use your own,
+put them in the library's `midi/bgv` (videos) or `midi/bgphoto` (photos) folder.
